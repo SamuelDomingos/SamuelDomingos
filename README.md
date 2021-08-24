@@ -1,16 +1,21 @@
-### Hi there 👋
+# OLA, Me chamo Samuel!
+<a href="https://github.com/SamuelDomingos" />
 
-<!--
-**SamuelDomingos/SamuelDomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDomingos&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDomingos)](https://github.com/SamuelDomingos/github-readme-stats)
 
-Here are some ideas to get you started:
+<div class=icons>
+  <img src='https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=e44d26' />
+  <img src='https://icongr.am/devicon/css3-plain-wordmark.svg?size=50&color=315de3' />
+  <img src='https://icongr.am/devicon/github-original.svg?size=50&color=181616' />
+  <img align="right" width="250" src='https://c.tenor.com/pzcI5oJKQtsAAAAC/anime-boy.gif'/>
+</div><!--ICONS-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+
+<div class="links">
+  
+  <a target="_blank" href="https://discord.com/channels/@SpaceX#4037"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' /></a>
+  <a target="_blank" href="https://www.instagram.com/fs.domingos/"><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
+</div><!--LINKS-->
