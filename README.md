@@ -13,6 +13,7 @@
   <img src='https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=e44d26' />
   <img src='https://icongr.am/devicon/css3-plain-wordmark.svg?size=50&color=315de3' />
   <img src='https://icongr.am/devicon/github-original.svg?size=50&color=181616' />
+  <img src='https://icongr.am/devicon/react-original.svg?size=128&color=currentColor' />
   <img align="right" width="250" src='https://c.tenor.com/pzcI5oJKQtsAAAAC/anime-boy.gif'/>
 </div><!--ICONS-->
 
