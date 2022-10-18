@@ -1,19 +1,12 @@
 # OLA, Me chamo Samuel!
 <a href="https://github.com/SamuelDomingos" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDomingos&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamuelDomingos&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDomingos&show_icons=true&theme=tokyonight)](https://github.com/SamuelDomingos/github-readme-stats)
 
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,vscode&theme=dark)](https://skillicons.dev)
 
 <div class=icons>
-  <img src='https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=e44d26' />
-  <img src='https://icongr.am/devicon/css3-plain-wordmark.svg?size=50&color=315de3' />
-  <img src='https://icongr.am/devicon/github-original.svg?size=50&color=181616' />
-  <img src='https://icongr.am/devicon/react-original.svg?size=128&color=currentColor' />
   <img align="right" width="250" src='https://c.tenor.com/pzcI5oJKQtsAAAAC/anime-boy.gif'/>
 </div><!--ICONS-->
 
