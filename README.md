@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamuelDomingos&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDomingos&show_icons=true&theme=tokyonight)](https://github.com/SamuelDomingos/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,react,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,react,vscode&theme=dark)](https://skillicons.dev)
 
 <div class=icons>
   <img align="right" width="250" src='https://c.tenor.com/pzcI5oJKQtsAAAAC/anime-boy.gif'/>
