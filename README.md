@@ -6,11 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,react,nextjs,nodejs,mysql,mongodb,vscode&theme=dark)](https://skillicons.dev)
 
-<div class=icons>
-  <img align="right" width="250" src='https://c.tenor.com/pzcI5oJKQtsAAAAC/anime-boy.gif'/>
-</div><!--ICONS-->
-
-
 ##
 
 <div class="links">
