@@ -2,7 +2,6 @@
 <a href="https://github.com/SamuelDomingos" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamuelDomingos&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDomingos&show_icons=true&theme=tokyonight)](https://github.com/SamuelDomingos/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,react,nextjs,nodejs,mysql,mongodb,vscode&theme=dark)](https://skillicons.dev)
 
