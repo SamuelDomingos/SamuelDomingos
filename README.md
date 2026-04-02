@@ -3,7 +3,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamuelDomingos&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,react,nextjs,nodejs,mysql,mongodb,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,react,nextjs,prisma,postgres,mysql,vscode&theme=dark)](https://skillicons.dev)
 
 ##
 
